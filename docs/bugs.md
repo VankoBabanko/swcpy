@@ -22,11 +22,12 @@ The [Rebel V-4X-D Ski Speeder](PolarShip.html) has a displayed damage that is go
   * **Bug confirmed:** not yet
   * **Bug confirmation process:** to be done
 
-### Enhanced AT-AP Walker (and possibly other units with splash damage) vs shields
+### Enhanced AT-AP Walker / Enhanced AT-MP Walker   (and possibly other units with splash damage) vs shields
 
-The [Enhanced AT-AP Walker](eqpRebelATAPHalfSkin.html) takes a very long
+The [Enhanced AT-AP Walker](eqpRebelATAPHalfSkin.html) / [Enhanced AT-MP Walker](eqpEmpireATMPHalfSkin.html) takes a very long
 time to destroy shields, more than the unskinned [AT-AP
-Walker](ATAP.html). While this could be at a quick glance attributed to
+Walker](ATAP.html) / [AT-MP
+Walker](ATMP.html). While this could be at a quick glance attributed to
 a modifier versus shields of +300% instead of +400%, the maths doesn't
 hold as a shield takes 4 times more to be destroyed by the (supposedly)
 more powerful unit.
